@@ -39,7 +39,7 @@ class Contact extends Component {
         <h2 className="contact-title">You like our work ? Contact us</h2>
         <div className="contact-dsc">
           <h4>
-            Send us your email address and we will contact you as fast as
+            Send us your email address and we will contact you as soon as
             possible.
           </h4>
         </div>
